@@ -23,6 +23,7 @@ open the `.ino`, install the listed libraries, and flash.
 | 4 | [`04-io-control`](04-io-control) | Buttons + opto inputs + MOSFET outputs | *(built-in)* |
 | 5 | [`05-audio-dac`](05-audio-dac) | PCM5102A audio (I²S) | ESP8266Audio |
 | 6 | [`06-web-mp3-player`](06-web-mp3-player) | SD + audio + Wi-Fi web UI | ESP8266Audio |
+| 7 | [`07-hardware-test`](07-hardware-test) | **Full board test** — live I/O + media + NeoPixel web app | ESP8266Audio, Adafruit NeoPixel |
 
 Each folder has its own `README.md` with wiring, pins, and usage.
 
